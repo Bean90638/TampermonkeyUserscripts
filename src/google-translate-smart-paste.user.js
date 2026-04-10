@@ -4,7 +4,7 @@
 // @version      1.6.0
 // @description  貼上時自動判斷文字或圖片並切換翻譯類型；雙擊 ESC 清空與畫面提示; 設定選項：貼上前清除既有內容、文字模式自動切換目標語言、圖片模式固定偵測語言 → 中文(繁體)。
 // @icon         https://translate.google.com/favicon.ico
-// @match        https://translate.google.com/*
+// @match        https://translate.google.*/*
 // @source       https://github.com/Bean90638/TampermonkeyUserscripts/raw/main/src/google-translate-smart-paste.user.js
 // @namespace    https://github.com/Bean90638/TampermonkeyUserscripts/raw/main/src/google-translate-smart-paste.user.js
 // @grant        GM_getValue
